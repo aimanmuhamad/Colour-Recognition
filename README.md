@@ -1,2 +1,2 @@
-# Colour-Recognition
+# MNIST Digital
 Color Detection
